@@ -1,6 +1,6 @@
 # Dakota McCurdy
 
-<img src="https://avatars.githubusercontent.com/u/your-username" alt="Profile Picture" width="150" />
+<img src="https://avatars.githubusercontent.com/u/109303754?v=4" alt="Profile Picture" width="150" />
 
 **`Aspiring Software Engineer`**
 
@@ -29,6 +29,7 @@ I'm a desktop support engineer transitioning into a software engineering role. I
 	I started my coding journey while working as a Desktop Support Engineer. I began learning PowerShell to automate tasks and streamline processes. I then transitioned into Python to expand my scripting capabilities. I have since learned HTML, CSS, and JavaScript to build web applications. I am currently learning C# and SharePoint to develop enterprise applications. I am excited to continue growing my skills and building projects that solve real-world problems.
 </details>
 -->
+
 ### 💻 Languages and Frameworks
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
