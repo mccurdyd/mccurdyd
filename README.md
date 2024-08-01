@@ -122,7 +122,7 @@ I'm a desktop support engineer transitioning into a software engineering role. I
 ### 📊 Visitor Count
 
 <p align="center">
-	<img src="https://visitor-badge.glitch.me/badge?page_id=mccurdyd.visitor-badge" alt="Visitor Count" />
+	<img src="https://komarev.com/ghpvc/?username=mccurdyd&style=flat-square&color=blue" alt="Visitor Count" />
 </p>
 
 ---
