@@ -4,7 +4,7 @@
 
 I'm a desktop support engineer transitioning into a software engineering role. I have a strong passion for scripting and automation, with a firm grasp of Python and PowerShell. My journey into software development includes learning various technologies and frameworks, including C# and SharePoint. I enjoy solving problems and creating efficient solutions through code. As I continue to grow my skills, I aim to build projects that streamline processes and improve productivity.
 
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 	<a href="https://github.com/mccurdyd?tab=followers">
 		<img alt="GitHub followers" title="Follow me on GitHub" src="https://img.shields.io/badge/Follow%20me%20on%20GitHub-236ad3?style=for-the-badge&logo=github&logoColor=white" />
 	</a>
@@ -20,12 +20,7 @@ I'm a desktop support engineer transitioning into a software engineering role. I
 	<a href="https://discord.com/users/itsmccurdy">
 		<img alt="Discord" title="Discord Profile" src="https://img.shields.io/badge/Chat%20with%20me%20on%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 	</a>
-</p>
-
-
-
-
-
+</div>
 
 ---
 
@@ -59,4 +54,3 @@ I'm a desktop support engineer transitioning into a software engineering role. I
 	<summary><h3>👨‍💻 Dakota's Coding Journey</h3></summary>
 	I started my coding journey while working as a Desktop Support Engineer. I began learning PowerShell to automate tasks and streamline processes. I then transitioned into Python to expand my scripting capabilities. I have since learned HTML, CSS, and JavaScript to build web applications. I am currently learning C# and SharePoint to develop enterprise applications. I am excited to continue growing my skills and building projects that solve real-world problems.
 </details>
-
