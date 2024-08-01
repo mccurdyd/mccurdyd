@@ -21,7 +21,7 @@ I'm a desktop support engineer transitioning into a software engineering role. I
 
 ---
 
-### 🧰 Languages and Tools
+### 🛠️ Skills and Technologies
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 	<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
