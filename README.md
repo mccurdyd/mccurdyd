@@ -9,18 +9,20 @@ I'm a desktop support engineer transitioning into a software engineering role. I
 		<img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Follow%20me%20on%20Github-Follow-236ad3?style=for-the-badge&logo=github&logoColor=white" />
 	</a>
 	<a href="mailto:dakotamccurdy2015@gmail.com">
-		<img alt="Email" title="Email me" src="https://img.shields.io/badge/Email-dakotamccurdy2015@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+		<img alt="Email" title="Email me" src="https://img.shields.io/badge/Email-Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 	<a href="https://www.linkedin.com/in/dakotamccurdy">
-		<img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Your%20LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+		<img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<a href="https://steamcommunity.com/profiles/76561199005559013/">
-		<img alt="Steam" title="Steam Profile" src="https://img.shields.io/badge/Steam-Your%20Steam%20Profile-000000?style=for-the-badge&logo=steam&logoColor=white" />
+		<img alt="Steam" title="Steam Profile" src="https://img.shields.io/badge/Steam-View%20Profile-000000?style=for-the-badge&logo=steam&logoColor=white" />
 	</a>
 	<a href="https://discord.com/users/itsmccurdy">
-		<img alt="Discord" title="Discord Profile" src="https://img.shields.io/badge/Discord-itsmccurdy-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+		<img alt="Discord" title="Discord Profile" src="https://img.shields.io/badge/Discord-Chat%20with%20me-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 	</a>
 </p>
+
+
 
 
 ---
