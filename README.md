@@ -6,7 +6,7 @@ I'm a desktop support engineer transitioning into a software engineering role. I
 
 <p align="left">
 	<a href="https://github.com/mccurdyd?tab=followers">
-		<img alt="followers" title="Follow me on Github" />
+		<img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Follow%20me%20on%20Github-Follow-236ad3?style=for-the-badge&logo=github&logoColor=white" />
 	</a>
 	<a href="mailto:dakotamccurdy2015@gmail.com">
 		<img alt="Email" title="Email me" src="https://img.shields.io/badge/Email-Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
