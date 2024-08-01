@@ -127,16 +127,6 @@ I'm a desktop support engineer transitioning into a software engineering role. I
 
 ---
 
-### 🚀 Project Showcase
-
-#### Project 1: Coming Soon
-![Coming Soon](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
-#### Project 2: Coming Soon
-![Coming Soon](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
----
-
 ### 📜 Daily Quote
 
 <p align="center">
