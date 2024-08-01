@@ -8,7 +8,7 @@ I'm a desktop support engineer transitioning into a software engineering role. I
     <a href="https://github.com/mccurdyd?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
     </a>
-    <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+    <a href="https://github.com/mccurdyd?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
     </a>
 </p>
@@ -59,4 +59,3 @@ I'm a desktop support engineer transitioning into a software engineering role. I
 	<li>🎮 Steam: <a href="https://steamcommunity.com/profiles/76561199005559013/">Your Steam Profile</a></li>
 	<li>🎮 Discord: itsmccurdy <img src="https://custom-icon-badges.demolab.com/badge/discord-color.svg?logo=discord-color" alt="Discord Logo" style="width: 20px; height: 20px; vertical-align: middle;" /></li>
 </ul>
-
