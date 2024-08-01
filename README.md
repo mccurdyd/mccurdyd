@@ -1,5 +1,7 @@
 # Dakota McCurdy
 
+<img src="https://avatars.githubusercontent.com/u/mccurdyd" alt="Profile Picture" width="150" />
+
 **`Aspiring Software Engineer`**
 
 I'm a desktop support engineer transitioning into a software engineering role. I have a strong passion for scripting and automation, with a firm grasp of Python and PowerShell. My journey into software development includes learning various technologies and frameworks, including C# and SharePoint. I enjoy solving problems and creating efficient solutions through code. As I continue to grow my skills, I aim to build projects that streamline processes and improve productivity.
@@ -36,9 +38,7 @@ I'm a desktop support engineer transitioning into a software engineering role. I
 	<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
 
-<br />
-
-#
+---
 
 ### 📈 GitHub Stats
 
@@ -46,7 +46,15 @@ I'm a desktop support engineer transitioning into a software engineering role. I
 	<img src="https://github-readme-stats.vercel.app/api?username=mccurdyd&show_icons=true&theme=dark" alt="Dakota's GitHub Stats" />
 </p>
 
-#
+---
+
+### 📂 Key Projects
+
+- **Project Name**: Brief description of the project. [GitHub Link](https://github.com/mccurdyd/project-repo)
+- **Project Name**: Brief description of the project. [GitHub Link](https://github.com/mccurdyd/project-repo)
+
+---
+
 <!--
 <details>
 	<summary><h3>👨‍💻 Dakota's Coding Journey</h3></summary>
