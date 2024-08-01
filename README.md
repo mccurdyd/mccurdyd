@@ -34,7 +34,6 @@ I'm a desktop support engineer transitioning into a software engineering role. I
 	<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 	<img align="left" alt="PowerShell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
 	<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-	<img align="left" alt="SharePoint" width="30px" style="padding-right:10px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AMicrosoft_Office_SharePoint_%25282019%25E2%2580%2593present%2529.svg&psig=AOvVaw1ZNnEdZrOxGSj8xZ932SwV&ust=1722565646394000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC-uKPf0ocDFQAAAAAdAAAAABAE" />
 	<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 	<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 	<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
