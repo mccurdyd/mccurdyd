@@ -48,7 +48,6 @@ I'm a desktop support engineer transitioning into a software engineering role. I
 
 ---
 
-<!--
 <details>
 	<summary><h3>👨‍💻 Dakota's Coding Journey</h3></summary>
 	I started my coding journey while working as a Desktop Support Engineer. I began learning PowerShell to automate tasks and streamline processes. I then transitioned into Python to expand my scripting capabilities. I have since learned HTML, CSS, and JavaScript to build web applications. I am currently learning C# and SharePoint to develop enterprise applications. I am excited to continue growing my skills and building projects that solve real-world problems.
