@@ -4,7 +4,7 @@
 
 **`Aspiring Software Engineer`**
 
-I'm a desktop support engineer transitioning into a software engineering role. I have a strong passion for scripting and automation, with a firm grasp of Python and PowerShell. My journey into software development includes learning various technologies and frameworks, including C# and SharePoint. I enjoy solving problems and creating efficient solutions through code. As I continue to grow my skills, I aim to build projects that streamline processes and improve productivity.
+I'm a Desktop Support Engineer transitioning into a software engineering role. I have a strong passion for scripting and automation, with a firm grasp of Python and PowerShell. My journey into software development includes learning various technologies and frameworks, including C# and SharePoint. I enjoy solving problems and creating efficient solutions through code. As I continue to grow my skills, I aim to build projects that streamline processes and improve productivity.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 	<a href="https://github.com/mccurdyd?tab=followers">
