@@ -65,7 +65,7 @@ I'm a desktop support engineer transitioning into a software engineering role. I
   - Kubernetes
 
 - **Cloud Services**:
-  - Azure
+  - Microsoft Entra ID
 
 ---
 
@@ -73,7 +73,7 @@ I'm a desktop support engineer transitioning into a software engineering role. I
 
 - **C#**: Object-oriented programming
 - **SharePoint**: Development and customization
-- **Azure**: Cloud services
+- **Azure/Entra**: Cloud services
 
 ---
 
