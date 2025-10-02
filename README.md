@@ -1,6 +1,6 @@
 # Dakota McCurdy
 
-**Desktop Support Engineer | Building Automation Tools | Transitioning to DevOps**
+**User Experience Engineer | Building Automation Tools | Transitioning to DevOps**
 
 I automate IT operations and build tools that reduce manual work in enterprise environments. My background in desktop support gives me real-world context for the problems I solve through scripting and automation.
 
