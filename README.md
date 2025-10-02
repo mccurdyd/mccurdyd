@@ -1,12 +1,12 @@
 # Dakota McCurdy
 
-**User Experience Engineer | Building Automation Tools | Transitioning to DevOps**
+**User Experience Engineer | Automation Developer | Pursuing DevOps Career**
 
-I automate IT operations and build tools that reduce manual work in enterprise environments. My background in desktop support gives me real-world context for the problems I solve through scripting and automation.
+I automate IT operations and build tools that reduce manual work in enterprise environments. Currently seeking roles in systems administration or automation engineering as stepping stones toward DevOps.
 
 ---
 
-## What I Actually Do
+## What I Build
 
 I write PowerShell and Python tools that automate:
 - User provisioning and migration workflows
@@ -20,19 +20,19 @@ My scripts handle real production workloads and are designed for reliability, er
 
 ## Technical Skills
 
-**Strong Areas (What I Use Daily)**
+**Strong Areas (Daily Use)**
 - **PowerShell** (Advanced) - WPF GUIs, Active Directory, Microsoft Graph API, async operations
 - **Python** (Intermediate) - Pandas, data analysis, Excel automation (xlsxwriter, openpyxl)
 - **Active Directory & Entra ID** - User management, device management, Graph API
 - **API Integration** - REST APIs, GraphQL, authentication workflows
-- **Git/GitHub** - Version control basics
+- **Git/GitHub** - Version control
 
-**Learning Now (DevOps Transition)**
+**Learning Now (DevOps Path)**
 - Docker containerization
-- CI/CD pipelines and automation
+- CI/CD pipelines
 - Infrastructure as Code (Terraform)
-- Azure cloud services
-- Kubernetes fundamentals
+- Azure cloud platforms
+- Linux system administration
 
 ---
 
@@ -41,25 +41,25 @@ My scripts handle real production workloads and are designed for reliability, er
 ### User Profile Migration Toolkit
 PowerShell tools with custom WPF GUIs for backing up and restoring Windows user profiles. Handles async operations, comprehensive error tracking, and detailed logging for enterprise migrations.
 
-**Tech:** PowerShell, WPF, Active Directory, Runspaces, Robocopy automation
+**Tech:** PowerShell, WPF, Active Directory, Runspaces
 
 ### Device Inventory Reporting Suite
 Python tools that generate executive dashboards from device data, integrate with Active Directory for user lookups, and create formatted Excel reports with charts and conditional formatting.
 
-**Tech:** Python, Pandas, Active Directory integration, xlsxwriter, subprocess for PowerShell interop
+**Tech:** Python, Pandas, Active Directory, xlsxwriter
 
 ### Monday.com Automation Toolkit
 Three PowerShell tools for workflow automation: bulk status updates with WPF GUI, CSV export utility, and cross-board synchronization with Teams notifications.
 
-**Tech:** PowerShell, GraphQL, REST APIs, WPF, Adaptive Cards
+**Tech:** PowerShell, GraphQL, REST APIs, WPF
 
 ---
 
-## Current Goals
+## Career Goals
 
-**Short-term:** Build public portfolio demonstrating automation and scripting skills  
-**Mid-term:** Gain hands-on experience with Docker, CI/CD, and cloud platforms  
-**Long-term:** Transition from Desktop Support to DevOps Engineer role
+**Current:** User Experience Engineer building automation tools  
+**Next Step:** Systems Administrator or Automation Engineer role  
+**Long-term:** DevOps Engineer
 
 ---
 
