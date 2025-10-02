@@ -34,12 +34,6 @@ My scripts handle real production workloads and are designed for reliability, er
 - Azure cloud services
 - Kubernetes fundamentals
 
-**Tools I Use**
-- VS Code, PowerShell ISE
-- Git workflows
-- Windows system administration
-- Network troubleshooting
-
 ---
 
 ## Featured Projects
